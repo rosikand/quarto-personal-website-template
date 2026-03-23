@@ -24,3 +24,7 @@ _quarto.yml           → render config
 1. In `_quarto.yml`, change `output-dir` to `docs`
 2. Push to GitHub
 3. Go to repo Settings → Pages → Source: "Deploy from a branch", branch `main`, folder `/docs`
+
+## Screenshot 
+
+<img width="916" height="779" alt="image" src="https://github.com/user-attachments/assets/63ab6af2-8cdd-4f38-8ed0-ea107599046a" />
